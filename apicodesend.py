@@ -115,6 +115,3 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 
-#only for refference
-         # cv2.rectangle(frame, (xmin, ymin), (xmax, ymax), (255, 0, 0), 1)
-         # # cv2.putText(frame, label, (xmin, ymin - 5), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 0, 0), 1)
